@@ -58,3 +58,4 @@ urllib3==2.1.0
 Werkzeug==3.0.1
 whitenoise==6.6.0
 wrapt==1.16.0
+python==3.11.6
