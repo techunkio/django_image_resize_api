@@ -28,6 +28,7 @@ neuralgym @ git+https://github.com/bg1szd/neuralgym@3e86dadf21e3adf5bfca00af1a50
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.2
+Pillow==10.1.0
 protobuf==4.25.3
 psycopg2==2.9.9
 pyasn1==0.5.1
