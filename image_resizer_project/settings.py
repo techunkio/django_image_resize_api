@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'imageresizer',
     'corsheaders',
+    'whitenoise',
     'whitenoise.runserver_nostatic',
 ]
 
